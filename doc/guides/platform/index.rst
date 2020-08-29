@@ -10,6 +10,7 @@ The following are platform specific guides and setup information.
     :maxdepth: 2
     :numbered:
 
+    amazongraviton
     bluefield
     dpaa
     dpaa2
